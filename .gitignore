@@ -178,6 +178,9 @@ lib/*.log
 # libman klasörü altındaki tüm .tmp uzantılı dosyalar
 lib/**/*.tmp
 
+# wwwroot içindeki assets klasörünü tamamen ignore et
+Hospital.MVC/wwwroot/assets/
+Hospital.MVC/wwwroot/js/
 
 
 
